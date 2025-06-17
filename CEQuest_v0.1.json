@@ -1,0 +1,1749 @@
+{
+  "dataset_name": "Construction Drawing Interpretation Dataset",
+  "total_questions": 164,
+  "multiple_choice_count": 101,
+  "true_false_count": 63,
+  "questions": [
+    {
+      "Problem ID": 10001,
+      "Question": "Which is not a common type of drawing?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Mechanical plan",
+        "Plumbing plan",
+        "Painting plan"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 10002,
+      "Question": "Under what conditions can the electrical plan be included on the floor plan?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "When the building is a smaller job or a residential project",
+        "When print paper is scarce",
+        "When the architect is also an electrician"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 10003,
+      "Question": "Which drawing would show the location of a building fire suppression sprinkler system?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Electrical plan",
+        "Foundation plan",
+        "Site plan"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 10004,
+      "Question": "Which occupation does not need to know how to read construction prints?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Welder",
+        "Construction estimator",
+        "Owner of a lighting store"
+      ],
+      "Correct Answer": "E"
+    },
+    {
+      "Problem ID": 10005,
+      "Question": "A list of materials included on a drawing is called _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "notes",
+        "an elevation",
+        "a section"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 10006,
+      "Question": "In a set of working drawings, under which drawing classification would the steel framing be found?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Civil drawings",
+        "Architectural drawings",
+        "Plumbing drawings"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 10007,
+      "Question": "Which type of schedule would identify the required floor material?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Door schedule",
+        "Room finish schedule",
+        "Column schedule"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 10008,
+      "Question": "When handling prints, when is it acceptable to write on them?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "When estimating the project cost",
+        "When noting the name of a supplier",
+        "When there is no other paper available"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 10009,
+      "Question": "What is the name of the sheet that identifies individual drawings in a project?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Notes page",
+        "Table of contents",
+        "Title page"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 10010,
+      "Question": "Where would it be possible to find the ceiling height of a room in a building?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Room finish schedule",
+        "Door schedule",
+        "Exterior elevation"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 10011,
+      "Question": "True or False? A rendering would show all the details needed to build an office building.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 10012,
+      "Question": "True or False? The locations of utilities are generally shown on the site plan.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 10013,
+      "Question": "True or False? Most construction drawings are created using orthographic projection.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 10014,
+      "Question": "True or False? Prints will not be damaged if they are left out in direct sunlight for an extended period.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 10015,
+      "Question": "True or False? Working drawing is another term for print.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 10016,
+      "Question": "True or False? When first opening a set of drawings, you should review the floor plans to visualize what the building is going to look like when it is finished.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 10017,
+      "Question": "True or False? Drawings made in CADD are created at reduced size and plotted at the appropriate scale.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 10018,
+      "Question": "True or False? A detail is usually drawn to a smaller scale than the related section or plan view.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 10019,
+      "Question": "True or False? A printed drawing is always printed to the exact scale of the original.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 10020,
+      "Question": "True or False? It is best to roll prints rather than fold them.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 20009,
+      "Question": "How many 1 \u00d7 2 shelf cleats 8\u2033 long can be cut from a 1 \u00d7 2 board 16\u2032 long? ",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "20",
+        "22",
+        "24"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 20010,
+      "Question": "A contractor removed 357 cubic yards of earth from a building site. If the contractor\u2019s trucks can haul 17 cubic yards per load, how many truckloads were needed?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "20",
+        "21",
+        "22"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 20011,
+      "Question": "Figure the amount of concrete (in cubic yards) required to pour a floor slab of the following dimensions: 18\u2032 \u00d7 24\u2032 \u00d7 4\u2033.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "4cy",
+        "5cy",
+        "6cy"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 20012,
+      "Question": "How many cubic yards of concrete are needed to pour a slab 60\u2032 \u00d7 80\u2032 \u00d7 5\u2033 thick?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "70cy",
+        "75cy",
+        "80cy"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 20013,
+      "Question": "Calculate the number of gallons of paint required to paint one side of a block wall of the following dimensions: 6\u2032 \u00d7 172\u2032.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "4gallons",
+        "6 gallons",
+        "8 gallons"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 20014,
+      "Question": "Compute the gallons of sealer required to seal a floor 120\u2032 \u00d7 250\u2032. The sealer being used will cover 175 ft2 per gallon. ",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "170 gallons",
+        "171 gallons",
+        "172 gallons"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 20017,
+      "Question": "If a concrete column is 20\u2033 in diameter and 18\u2032-3\u2033 in height, how many cubic yards of concrete would be needed to fill the form? ",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "1.5cy",
+        "2cy",
+        "2.5cy"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 50001,
+      "Question": "It is important to have good sketching skills in order to _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Impress people with your artistic ability",
+        "Communicate ideas",
+        "Read prints properly"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 50002,
+      "Question": "When sketching a horizontal line, your eyes should focus on _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "The endpoint of the line",
+        "The tip of the pencil",
+        "The beginning of the line"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 50006,
+      "Question": "Which of the leads listed below would be used for technical drawing?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "4B",
+        "6B",
+        "H"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 50007,
+      "Question": "Why are orthographic drawings used for construction?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Orthographic drawings are easier to create",
+        "Pictorial drawings are too large to fit on the sheets",
+        "More details can be shown on orthographic drawings"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 50008,
+      "Question": "The maximum number of orthographic views of an object is _____?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "Correct Answer": "E"
+    },
+    {
+      "Problem ID": 50009,
+      "Question": "Which type of drawing is a view taken from directly above the building?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Sectional view",
+        "Elevation",
+        "Plan view"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 50010,
+      "Question": "Which type of drawing shows the building as if part of it were removed?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Sectional view",
+        "Elevation",
+        "Plan view"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 50011,
+      "Question": "Which type of drawing is used when there isn\u00e2\u20ac\u2122t enough room on another drawing to illustrate something?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Sectional view",
+        "Elevation",
+        "Plan view"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 50012,
+      "Question": "Which type of drawing illustrates the building as if you were standing on the ground looking at it?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Sectional view",
+        "Elevation",
+        "Plan view"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 50013,
+      "Question": "The location of light switches would be found on the _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Foundation plan",
+        "Framing plan",
+        "Electrical plan"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 50014,
+      "Question": "The type of floor joists would be found on the _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Foundation plan",
+        "Framing plan",
+        "Electrical plan"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 50015,
+      "Question": "The size of the basement wall would be found on the _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Foundation plan",
+        "Framing plan",
+        "Electrical plan"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 50016,
+      "Question": "The location of hose bibbs would be found on the _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Foundation plan",
+        "Framing plan",
+        "Electrical plan"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 50017,
+      "Question": "Which of the following dimensions wouldn\u00e2\u20ac\u2122t appear in an elevation drawing?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Elevation of the second-floor joists",
+        "Depth of the footing",
+        "Thickness of a wall"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 50018,
+      "Question": "A typical roof slope (rise to run) is _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "01:12:00",
+        "04:12:00",
+        "12:04:00"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 50019,
+      "Question": "True or False? Masonry walls are dimensioned to their exterior surfaces.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 50020,
+      "Question": "True or False? Dimensions for exterior walls of brick-veneer buildings usually start at the exterior surface of the stud wall.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 50003,
+      "Question": "True or False? In the unit method of proportioning, the longest dimension of an object is set equal to one unit.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 50004,
+      "Question": "True or False? The more experience you gain sketching, the more tools and aids you should use.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 50005,
+      "Question": "True or False? The point of the pencil should be sharpened differently for different weights of lines.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 70001,
+      "Question": "True or False? Concrete is stronger when it is in tension (pulled) than when it is in compression (pushed).",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 70002,
+      "Question": "When preparing a batch of concrete, which of the following would not be included?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Water",
+        "Cement",
+        "Aggregate (sand, gravel)"
+      ],
+      "Correct Answer": "E"
+    },
+    {
+      "Problem ID": 70003,
+      "Question": "Which of the following types of brick is made from a mixture of Portland cement and aggregates?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Sand-lime brick",
+        "Adobe brick",
+        "Kiln-burned brick"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 70004,
+      "Question": "True or False? Firebrick is referred to as \u201a\u00c4\u00facommon brick\u201a\u00c4\u00f9 because it is the most commonly used type of brick.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 70005,
+      "Question": "Squared stones that have been laid in a pattern but not cut to dimensions are called _____",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "ashlar stones",
+        "pea gravel",
+        "rubble"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 70006,
+      "Question": "Which mortar type is best-suited for situations requiring high lateral strength?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Type M",
+        "Type S",
+        "Type N"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 70007,
+      "Question": "True or False? Lumber classified as rough-sawn lumber has been dressed or finished to size by running it through a planer.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 70008,
+      "Question": "What is the difference between interior and exterior plywood?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "The type of wood used",
+        "The size of the sheets",
+        "The type of adhesive used"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 70009,
+      "Question": "The steel beam identification W8\u221a\u00f315 represents a wide-flange beam _____",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "8\u201a\u00c4\u2265 deep and weighing 15 pounds per linear foot",
+        "8\u201a\u00c4\u2265 deep and 15\u201a\u00c4\u2265 wide",
+        "8\u201a\u00c4\u2265 wide and 15\u201a\u00c4\u2265 deep"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 70010,
+      "Question": "True or False? Nonferrous metals contain little or no aluminum.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 70011,
+      "Question": "True or False? Concrete completely hardens within 48 hours after it is poured.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 70012,
+      "Question": "Which of the following is not considered to be a type of safety glass?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Wired glass",
+        "Laminated glass",
+        "Tempered glass"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 70013,
+      "Question": "True or False? An air space between two sealed panes of glass serves as good insulation.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 70014,
+      "Question": "What type of cement would you use in the winter to make the concrete set up faster?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Type I, Normal Cement",
+        "Type III, High Early Strength",
+        "You wouldn\u201a\u00c4\u00f4t make concrete in the winter because it might freeze."
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 70015,
+      "Question": "Green building is also known as _____ design.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "environmental",
+        "minimal",
+        "sustainable"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 70016,
+      "Question": "Which of the following would not be considered to offer benefits in green building construction?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Reducing water runoff",
+        "Using insulating glass units with high R-values",
+        "Installing low-volume plumbing fixtures"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 70017,
+      "Question": "True or False? A higher gage number for sheet metal indicates a greater thickness of material.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 70018,
+      "Question": "What are the two basic kinds of metal?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Ferrous and nonferrous",
+        "Steel and copper",
+        "Steel and aluminum"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 70019,
+      "Question": "What causes concrete to harden?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Dehydration",
+        "Evaporation",
+        "Consolidation"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 80001,
+      "Question": "A site plan is also known as a _____ plan.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "mechanical",
+        "plot",
+        "floor"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 80002,
+      "Question": "A benchmark is _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "used to mark the location of lawn furniture",
+        "a portable device used to measure elevations",
+        "a line drawn with chalk on the ground"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 80003,
+      "Question": "True or False? Plan North is designated by the creator of the drawing.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 80004,
+      "Question": "Which of the following is not used to define a curved property line?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Radius",
+        "Curve length",
+        "Elevation change"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 80005,
+      "Question": "True or False? If the interval between contour lines is too large, the contour lines will be crowded too closely.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 80006,
+      "Question": "Which of the following would not be shown on a site plan?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Location of a garage",
+        "Trees",
+        "Utility lines"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 80007,
+      "Question": "A minimum distance required between the building and the property lines is called a(n) _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "assumed benchmark",
+        "delta",
+        "setback"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 90001,
+      "Question": "Where would the size and type of a window be found?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Room finish schedule",
+        "Floor plan",
+        "Reflected ceiling plan"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 90002,
+      "Question": "True or False? Floor plans show all of the information you need to build the building.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 90003,
+      "Question": "Which of the following items would not be found in the architectural drawings?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Types of paint",
+        "Types of insulation",
+        "Property line lengths"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 90004,
+      "Question": "True or False? Details are typically made at a smaller scale than floor plans.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 90005,
+      "Question": "Where would batt insulation typically be detailed?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Floor plan",
+        "Structural drawing",
+        "Grading plan"
+      ],
+      "Correct Answer": "E"
+    },
+    {
+      "Problem ID": 90006,
+      "Question": "What is a typical scale used to make a floor plan?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "1/4\u201a\u00c4\u2265 = 1\u201a\u00c4\u2264-0\u201a\u00c4\u2265",
+        "3/4\u201a\u00c4\u2265 = 1\u201a\u00c4\u2264-0\u201a\u00c4\u2265",
+        "1\u201a\u00c4\u2265 = 1\u201a\u00c4\u2264-0\u201a\u00c4\u2265"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 90007,
+      "Question": "On what type of drawing would you find a ceiling layout?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Roof section",
+        "Wall section",
+        "Reflected ceiling plan"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 90008,
+      "Question": "Where would ceiling heights be indicated?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Full building section",
+        "Floor plan",
+        "Door schedule"
+      ],
+      "Correct Answer": "E"
+    },
+    {
+      "Problem ID": 90009,
+      "Question": "True or False? Elevations show the materials used on the exterior of the building.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 90010,
+      "Question": "True or False? On an exterior elevation, underground footings are shown with solid, continuous lines.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 100001,
+      "Question": "When a footing must be placed above ground that has been disturbed, it should be _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "twice as thick as usual",
+        "twice as wide as usual",
+        "reinforced with steel reinforcing bars"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 100002,
+      "Question": "On a residential foundation plan, footings are shown with _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "continuous lines",
+        "hidden lines",
+        "phantom lines"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 100003,
+      "Question": "_____ rods are used to reinforce footings, slabs, and foundation walls.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Iron",
+        "Steel",
+        "Aluminum"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 100004,
+      "Question": "A(n) _____ is placed between a slab and a wall.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "air gap",
+        "roll of insulation",
+        "reinforcing bar"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 100005,
+      "Question": "Welded wire fabric is used to _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "reinforce steel beams",
+        "protect basement windows",
+        "reinforce concrete slabs"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 100006,
+      "Question": "A _____ is a slotted joint in concrete used to connect portions cast at different times.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "keyway",
+        "caisson",
+        "waterstop"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 100007,
+      "Question": "True or False? Footings are only needed below the perimeter walls of a building.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 100008,
+      "Question": "True or False? The frost line is the depth at which the ground is frozen when the temperature is 25\u00ac\u221eF (\u201a\u00c4\u00ec4\u00ac\u221eC).",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 100009,
+      "Question": "True or False? Normally, a column footing is larger than a footing below a wall.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 100010,
+      "Question": "True or False? Expansion joints placed around a slab expand and prevent the slab from moving.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 100011,
+      "Question": "True or False? The footings used in a monolithic slab are called turned-up footings.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 100012,
+      "Question": "What is the primary way in which a steel friction pile supports a load?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Bottom support",
+        "Pile cap support",
+        "Soil resistance along the side of the pile"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 100013,
+      "Question": "A _____ beam is a reinforced concrete beam that spans from footing to footing.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "ground",
+        "friction",
+        "pile"
+      ],
+      "Correct Answer": "E"
+    },
+    {
+      "Problem ID": 100016,
+      "Question": "A(n) _____ wall is used where there is a change in grade and the soil is higher on one side of the wall than the other.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "expansion",
+        "retaining",
+        "turned-down"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 120001,
+      "Question": "Which of the following is not a reason for the use of wood in residential construction?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "It is readily available.",
+        "It protects well against fire.",
+        "It is relatively affordable."
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 120002,
+      "Question": "Which member rests directly on top of the foundation wall?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Header",
+        "Joist",
+        "Ledger"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 120003,
+      "Question": "Which member is located above a window?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Rough sill",
+        "Trimmer stud",
+        "Header"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 120004,
+      "Question": "Which member connects rafters to make the roof frame more stable?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Collar beam",
+        "Joist",
+        "Hip rafter"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 120005,
+      "Question": "A winder is a _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "member to which joists are attached",
+        "flexible pipe",
+        "stair handrail"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 120006,
+      "Question": "True or False? A door schedule specifies the order in which doors are to be installed.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 120007,
+      "Question": "True or False? A loadbearing partition is an interior wall that supports a load from above.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 120008,
+      "Question": "True or False? Sectional views are normally drawn at a larger scale than plan views.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 120009,
+      "Question": "True or False? Exterior wall dimensions are normally shown to the outside of a stud wall.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 120010,
+      "Question": "True or False? In platform framing, wall studs run continuously from the sill plate to the roof.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 130001,
+      "Question": "True or False? Plumbing plans are typically developed during the final construction phase.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 130002,
+      "Question": "During which stage of construction are plumbing plans developed?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Final finishing stage",
+        "Framing stage",
+        "Roofing stage"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 130003,
+      "Question": "True or False? Plumbing plans include electrical wiring details.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 130004,
+      "Question": "True or False? The storm drain system carries wastewater from sinks and toilets.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 130005,
+      "Question": "Which of the following is an outdoor water faucet?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Ball valve",
+        "Stop valve",
+        "Hose bibb"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 130006,
+      "Question": "Which type of valve is used to completely stop or allow water flow?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Gate valve",
+        "Check valve",
+        "Pressure relief valve"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 130007,
+      "Question": "Which plumbing feature is designed to prevent water accumulation on floors?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Trap",
+        "Floor drain",
+        "Vent pipe"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 130008,
+      "Question": "Which line is responsible for carrying heated water to fixtures?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Drain line",
+        "Vent line",
+        "Cold water supply"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 130009,
+      "Question": "True or False? All plumbing fixtures require a trap to prevent sewer gas from entering the building.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 130010,
+      "Question": "True or False? The vent system carries wastewater to the sewer.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 130011,
+      "Question": "Which materials are commonly used for plumbing waste pipes?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "PVC",
+        "Copper tubing",
+        "Steel pipes"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 140001,
+      "Question": "True or False? An air-conditioning system changes the temperature of the air, but does nothing to clean the air.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 140002,
+      "Question": "Match the following plan symbols with the correct nomenclature",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Return air",
+        "Linear diffuser",
+        "Thermostat"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 140003,
+      "Question": "Match the following plan symbols with the correct nomenclature: Thermostat.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Return air",
+        "Linear diffuser",
+        "Thermostat"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 140004,
+      "Question": "Match the following plan symbols with the correct nomenclature: Return air.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Return air",
+        "Linear diffuser",
+        "Thermostat"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 140005,
+      "Question": "Match the following plan symbols with the correct nomenclature: Linear diffuser.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Return air",
+        "Linear diffuser",
+        "Thermostat"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 140006,
+      "Question": "True or False? A forced-air heating system transports air through ducts.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 140007,
+      "Question": "True or False? A unit cooling system is the most difficult type of cooling system to install.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 140008,
+      "Question": "Which of the following is not a heating system?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Hydronic system",
+        "Remote system",
+        "Forced-air system"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 140009,
+      "Question": "True or False? To improve comfort during warm weather, moisture should be added to the air.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 140010,
+      "Question": "True or False? In a forced-air system, heat is always provided by burning natural gas.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 140011,
+      "Question": "In an evaporative cooling system, the air is cooled by _____?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Electrostatic evaporative condensation",
+        "A water spray mist over fiber pads",
+        "Condensing units"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 140012,
+      "Question": "In which type of climate is an evaporative cooling system most effective?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Hot and humid",
+        "Dry climate where relative humidity is below 20%",
+        "Cold"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 140013,
+      "Question": "HVAC plans are typically shown on the _____ plans.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Reflected ceiling",
+        "Floor",
+        "Structural"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 150001,
+      "Question": "With regard to electrical construction, NEC stands for _____?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "National Electric Company",
+        "Nominal Electrical Conductor",
+        "Negative Electric Circuit"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 150002,
+      "Question": "A _____ is used to connect a distribution panel to a light.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Receptacle",
+        "Conductor",
+        "Relay"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 150003,
+      "Question": "A ground fault circuit interrupter should be installed in a(n) _____.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Bathroom",
+        "Closet",
+        "Overhead light"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 150004,
+      "Question": "For branch circuit wiring in residential construction, _____ wire is normally used.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Aluminum",
+        "Steel",
+        "Copper"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 150005,
+      "Question": "True or False? A lighting schedule lists equipment rather than light fixtures.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 150006,
+      "Question": "True or False? A panel schedule includes a list of all the circuits running from the box.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 150007,
+      "Question": "True or False? Electrical plans show the precise locations where conduit is to be run.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 150008,
+      "Question": "True or False? An ampere is a measure of electrical power.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 150009,
+      "Question": "True or False? A wire carrying 12 volts is considered a low-voltage wire.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 150010,
+      "Question": "Match the following plan symbols with the correct nomenclature: Telephone outlet.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Ceiling outlet",
+        "Duplex receptacle outlet",
+        "Three-way switch"
+      ],
+      "Correct Answer": "E"
+    },
+    {
+      "Problem ID": 150011,
+      "Question": "Match the following plan symbols with the correct nomenclature: Duplex receptacle outlet.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Ceiling outlet",
+        "Duplex receptacle outlet",
+        "Three-way switch"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 150012,
+      "Question": "Match the following plan symbols with the correct nomenclature: Ceiling outlet.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Ceiling outlet",
+        "Duplex receptacle outlet",
+        "Three-way switch"
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 150013,
+      "Question": "Match the following plan symbols with the correct nomenclature: Fluorescent fixture.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Ceiling outlet",
+        "Duplex receptacle outlet",
+        "Three-way switch"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 150014,
+      "Question": "Match the following plan symbols with the correct nomenclature: Three-way switch.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Ceiling outlet",
+        "Duplex receptacle outlet",
+        "Three-way switch"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 160001,
+      "Question": "True or False? The American Welding Society develops welding standards.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 160002,
+      "Question": "True or False? On the welding symbol, the arrow touches the tail.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 160003,
+      "Question": "True or False? A weld symbol below the reference line signifies a weld on the arrow side of the joint.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 160004,
+      "Question": "True or False? If a weld is to be made in the field (at the job site), a note must be included within the tail.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 160005,
+      "Question": "True or False? The size of the weld is indicated inside the weld symbol.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 160006,
+      "Question": "Interpret the following welding symbol: Fillet weld, arrow side.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Fillet weld, arrow side.",
+        "Field weld fillet weld, other side. Weld all-around.",
+        "1/4\u201a\u00c4\u2265 fillet weld, arrow side\u201a\u00c4\u00ee3\u201a\u00c4\u2265 long, 12\u201a\u00c4\u2265 O.C."
+      ],
+      "Correct Answer": "A"
+    },
+    {
+      "Problem ID": 160007,
+      "Question": "Interpret the following welding symbol: Field weld fillet weld, other side. Weld all-around.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Fillet weld, arrow side.",
+        "Field weld fillet weld, other side. Weld all-around.",
+        "1/4\u201a\u00c4\u2265 fillet weld, arrow side\u201a\u00c4\u00ee3\u201a\u00c4\u2265 long, 12\u201a\u00c4\u2265 O.C."
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 160008,
+      "Question": "Interpret the following welding symbol: 1/4\u201a\u00c4\u2265 fillet weld, arrow side\u201a\u00c4\u00ee3\u201a\u00c4\u2265 long, 12\u201a\u00c4\u2265 O.C.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Fillet weld, arrow side.",
+        "Field weld fillet weld, other side. Weld all-around.",
+        "1/4\u201a\u00c4\u2265 fillet weld, arrow side\u201a\u00c4\u00ee3\u201a\u00c4\u2265 long, 12\u201a\u00c4\u2265 O.C."
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 160009,
+      "Question": "Interpret the following welding symbol: Fillet weld, both sides.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Fillet weld, arrow side.",
+        "Field weld fillet weld, other side. Weld all-around.",
+        "1/4\u201a\u00c4\u2265 fillet weld, arrow side\u201a\u00c4\u00ee3\u201a\u00c4\u2265 long, 12\u201a\u00c4\u2265 O.C."
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 170001,
+      "Question": "True or False? When calculating labor rates, fringe benefits such as vacation pay are excluded.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 170002,
+      "Question": "True or False? A company\u201a\u00c4\u00f4s overhead costs include salaries paid by the company.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 170003,
+      "Question": "True or False? An apprentice is usually paid a higher rate on the job than a journeyman worker.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 170004,
+      "Question": "True or False? The detailed method of estimating is also known as budget parameter estimating.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "False"
+    },
+    {
+      "Problem ID": 170005,
+      "Question": "A(n) _____ is a change to the contract documents made by the architect prior to the construction bid.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Parameter",
+        "Schedule",
+        "Takeoff"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 170006,
+      "Question": "True or False? Estimating the cost of a job based on the cost per cubic yard is an example of using the approximate method.",
+      "Question Type": "TRUE/FALSE",
+      "Options": [
+        "True",
+        "False"
+      ],
+      "Correct Answer": "True"
+    },
+    {
+      "Problem ID": 170007,
+      "Question": "When developing an estimate, which of the following items is typically marked up with the highest percentage rate?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "Equipment",
+        "Materials",
+        "Safety items"
+      ],
+      "Correct Answer": "D"
+    },
+    {
+      "Problem ID": 170008,
+      "Question": "A project has 225 cubic yards of concrete in the footings, walls, and slabs. The total cost for this work is $35,325. What is the cubic yard unit cost?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "165",
+        "157",
+        "15.7"
+      ],
+      "Correct Answer": "B"
+    },
+    {
+      "Problem ID": 170009,
+      "Question": "A crew of workers is made up of two laborers each paid $15 per hour, one carpenter paid $21 per hour, and a foreman paid $25 per hour. What is the composite per-hour rate?",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "$19 per hour",
+        "$22 per hour",
+        "$76 per hour"
+      ],
+      "Correct Answer": "C"
+    },
+    {
+      "Problem ID": 170010,
+      "Question": "A landscaping business is bidding a job that requires 3 trees at $150 each, 5 large bushes at $45 each, 2 dozen roses at $19 each rose, and 3 dozen assorted flowers at $30 each dozen. Based on these prices and the labor rates and production rates shown below, what is the cost of doing this job? No taxes, mark-ups, or overhead costs are to be included.",
+      "Question Type": "Multiple Choice",
+      "Options": [
+        "657",
+        "1221",
+        "1878"
+      ],
+      "Correct Answer": "C"
+    }
+  ]
+}
